@@ -1,4 +1,4 @@
 # cv
-my current cv as well as versioned history
+my current resume as well as versioned history
 
-[cv](https://github.com/czaacza/cv/blob/master/mateusz-czarnecki-cv.pdf)
+[view cv](https://github.com/czaacza/cv/blob/master/mateusz-czarnecki-cv.pdf)
